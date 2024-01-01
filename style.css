@@ -51,6 +51,9 @@ button {
     border-bottom-left-radius: 64px;
     background-color: #0005c1;
 }
+p {
+    text-align: center;
+}
 
 .box {
     border: 2px solid;
